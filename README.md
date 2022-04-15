@@ -33,7 +33,7 @@ You can still install all the dependencies in your system [with ROOT permissions
 Simply clone the repository and run the main file:
 
 ```sh
-git clone https://github.com/SpEcHiDe/PublicLeech.git
+git clone https://github.com/abhishekhbhootwala/PublicLeech.git
 cd PublicLeech
 python3 -m venv venv
 . ./venv/bin/activate
